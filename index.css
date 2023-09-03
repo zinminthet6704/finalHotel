@@ -115,3 +115,17 @@ img{
     grid-gap: 2em;
     
 }
+
+
+
+
+input[type="button"]{
+    background-color: rgba(0,0,0,0);
+    border: 1px solid black;
+    cursor: pointer;
+    display: block;
+    outline: none;
+    padding: 15px 30px;
+    text-align: center;
+    font-family: Roboto, sans-serif;
+}
