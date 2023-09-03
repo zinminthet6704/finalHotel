@@ -1,0 +1,10 @@
+.roomContainer{
+    max-width: 362.292px;
+    max-height: 700px;
+
+    width: var(--roomContainerMaxWidth);
+    /* height: var(--roomContainer MaxHeight); */
+    height: auto;
+
+    border: 1px solid red;
+}
